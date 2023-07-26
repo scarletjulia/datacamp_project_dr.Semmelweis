@@ -1,7 +1,5 @@
 # Project: Dr. Semmelweis and the Discovery of Handwashing (Guided Project ofered by [Datacamp](https://www.datacamp.com/)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
 ![Captura de tela 2022-12-02 110716](https://user-images.githubusercontent.com/114709169/205311059-892100a3-59b9-4faf-8680-3f96d6be6eed.png)
 
 This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at the Vienna General Hospital. If Dr. Semmelweis looks troubled it's probably because he's thinking about childbed fever: A deadly disease affecting women that just have given birth. He is thinking about it because in the early 1840s at the Vienna General Hospital as many as 10% of the women giving birth die from it. He is thinking about it because he knows the cause of childbed fever: It's the contaminated hands of the doctors delivering the babies. And they won't listen to him and wash their hands!
